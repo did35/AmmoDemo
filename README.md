@@ -401,3 +401,10 @@ Systems Thinking
 ```
 
 combined into a concise educational dashboard built with modern SwiftUI techniques.
+
+---
+
+# Screenshot
+
+<img width="300" height="650" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-01 at 16 45 17" src="https://github.com/user-attachments/assets/8a4c4cfd-80b7-4b1d-a1a5-8627f8457ce3" />
+
