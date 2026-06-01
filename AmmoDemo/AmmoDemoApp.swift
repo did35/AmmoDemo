@@ -11,7 +11,7 @@ import SwiftUI
 struct AmmoDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AmmoDashboardView()
         }
     }
 }
